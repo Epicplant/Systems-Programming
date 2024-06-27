@@ -7,6 +7,7 @@
  * third-party components of this work must be honored.  Instructors
  * interested in reusing these course materials should contact the
  * author.
+ * 
  */
 
 #ifndef HW4_HTTPCONNECTION_H_
