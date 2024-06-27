@@ -7,7 +7,9 @@
  * third-party components of this work must be honored.  Instructors
  * interested in reusing these course materials should contact the
  * author.
+ *
  */
+
 
 #include <stdio.h>
 #include <string>
